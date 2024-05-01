@@ -2,7 +2,7 @@
   "name": "cra-webstorm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Alexey17.github.io/homework-front-main",
+  "homepage": "https://Alexey17.github.io/homework-front-main/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
